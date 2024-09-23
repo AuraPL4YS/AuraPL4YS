@@ -1,8 +1,8 @@
-# [Your Repository Name]
+# [Aura007]
 
 ## Overview
 
-This repository contains projects and code related to my work as a developer and content creator. Here, you'll find projects utilizing:
+This repository contains projects and code related to my work as a developer and content creator. Here, you'll find projects utilising:
 
 - **JavaScript**
 - **HTML & CSS**
@@ -16,5 +16,5 @@ This repository contains projects and code related to my work as a developer and
 
 ## Contact
 
-- **GitHub**: [YourUsername](https://github.com/[YourUsername])
-- **YouTube**: [Your YouTube Channel](https://www.youtube.com/[YourChannel])
+- **GitHub**: [YourUsername](https://github.com/[AuraPL4YS])
+- **YouTube**: [Your YouTube Channel](https://www.youtube.com/@AuraPL4YS)
