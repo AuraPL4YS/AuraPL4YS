@@ -1,4 +1,4 @@
-# [Aura007]
+# Aura007
 
 ## Overview
 
@@ -16,5 +16,5 @@ This repository contains projects and code related to my work as a developer and
 
 ## Contact
 
-- **GitHub**: [YourUsername](https://github.com/[AuraPL4YS])
-- **YouTube**: [Your YouTube Channel](https://www.youtube.com/@AuraPL4YS)
+- **GitHub**: [Aura007](https://github.com/[AuraPL4YS])
+- **YouTube**: [Aura007](https://www.youtube.com/@AuraPL4YS)
